@@ -8,5 +8,6 @@
 
 Программу можно открыть в любой среде разработки для Python, написана в PyCharm Community Edition 2021
 ## Скриншоты
-![](https://github.com/Ronny0113/PP7/blob/main/test1.png "Test1")
-![](https://github.com/Ronny0113/PP7/blob/main/test2.png "Test2")
+![](https://github.com/Ronny0113/PP7/blob/main/test1.jpg "Test1")
+![](https://github.com/Ronny0113/PP7/blob/main/test2.jpg "Test2")
+![](https://github.com/Ronny0113/PP7/blob/main/test3.jpg "Test3")
