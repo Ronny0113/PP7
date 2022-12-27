@@ -1,0 +1,31 @@
+INFO:root:--Program started--
+INFO:root:User input 7
+INFO:root:User input 2
+INFO:root:User input 5
+INFO:root:User input 5
+INFO:root:User input 1
+INFO:root:--Program finished--
+INFO:root:--Program started--
+INFO:root:User input 4
+INFO:root:User input 2
+INFO:root:User input 3
+INFO:root:User input 4
+INFO:root:User input 4
+INFO:root:--Program finished--
+INFO:root:--Program started--
+INFO:root:User input 1
+INFO:root:User input 1
+INFO:root:User input 7
+INFO:root:User input 1
+INFO:root:User input 3
+INFO:root:--Program finished--
+INFO:root:--Program started--
+INFO:root:User input 1
+ERROR:root:ValueError
+ERROR:root:Incorrect number
+INFO:root:User input 2
+INFO:root:User input 3
+ERROR:root:ValueError
+INFO:root:User input 4
+INFO:root:User input 4
+INFO:root:--Program finished--
